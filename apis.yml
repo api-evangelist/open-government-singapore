@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Singapore
     description: "Singapore Government Open Data"
     humanURL: https://data.gov.sg/developer
-    baseURL: https://data.gov.sg/developer
     tags:
       - Government
     properties:
